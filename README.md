@@ -1,7 +1,7 @@
 # STYLDLE
 SNS+Shopping
 
-STYLDLE 프로젝트의 코드입니다.
+STYLDLE 팀프로젝트의 코드입니다.
 
 STYLDLE은 SNS와 쇼핑몰이 결합된 사이트로 
 게시글을 통한 사이트 이용자들간 소통이 가능하고
