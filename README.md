@@ -20,7 +20,7 @@
 <span>제가 담당한 파트는 Q&A커뮤니티의 CRUD와 주문확인서, 결제API입니다.</span>
 <h3>작업 환경</h3>
 <ul>
-<li>IntelliJ, Tomcat, MySQLWorkbench, JDBC, Spring</li>
+<li>IntelliJ, Tomcat, MySQLWorkbench, Mybatis, Spring</li>
 <li>Java, JavaScript, HTML, CSS 등</li>
 </ul>
 <h3>결과</h3>
